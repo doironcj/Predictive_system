@@ -13,3 +13,5 @@ once corrected, the results will be printed to the screen. If the program is uns
 If this was a mistake and the target word is an option press c otherwise enter the number of the intended word.  If you enter a line with ending it with punctuation, the program 
 will correct the line and prompt you to choose from 15 probable next words. If there are no options you like press c to cancel and continue writing the sentence.  
 Entering exit exit the writing mode but not the program.
+
+All data utilized by spelling wizard is collected from Project Gutenberg: https://www.gutenberg.org/
