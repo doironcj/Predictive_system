@@ -1,4 +1,4 @@
-Spelling Wizard is a predictive system and spell checker written for python3 that can interact with the user or just correct a text file.  
+Spelling Wizard is a predictive system and spell checker written in python that can interact with the user or just correct a text file.  
 There are two modes which can be accessed with commands read or write.  The exit command will either exit the mode you are in or terminate 
 the program if you are not currenty in a mode.  The help command will print information of the functions.  
 Read command:
